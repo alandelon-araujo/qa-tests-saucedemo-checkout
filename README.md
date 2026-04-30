@@ -1,4 +1,5 @@
 # 🧪 Testes QA – Fluxo de Checkout (SauceDemo)
+🔗 Sistema testado: https://www.saucedemo.com/
 
 Este projeto apresenta a execução completa de testes manuais no fluxo de checkout da aplicação SauceDemo, simulando um cenário real de validação de sistema.
 
