@@ -71,3 +71,10 @@ Foram executados testes end-to-end cobrindo fluxos principais, alternativos e de
 ---
 
 📌 Projeto com foco em simular atividades reais de um Analista de QA.
+
+## ▶️ Como Executar os Testes
+
+1. Acessar o sistema: https://www.saucedemo.com/
+2. Utilizar o usuário: standard_user
+3. Senha: secret_sauce
+4. Seguir os cenários descritos na pasta de casos de teste
