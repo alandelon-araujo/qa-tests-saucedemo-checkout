@@ -78,3 +78,14 @@ Foram executados testes end-to-end cobrindo fluxos principais, alternativos e de
 2. Utilizar o usuário: standard_user
 3. Senha: secret_sauce
 4. Seguir os cenários descritos na pasta de casos de teste
+
+---
+
+## 📌 Resumo Executivo
+
+- Total de cenários: 27  
+- Total de casos de teste: 30  
+- Bugs encontrados: 3  
+- Bugs críticos: 1  
+
+📊 O sistema apresenta falhas relevantes no fluxo de checkout.
